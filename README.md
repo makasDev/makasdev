@@ -45,8 +45,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" />
   <img width="12" />
-  <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTEyIDUxMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLW1pdGVybGltaXQ9IjIiPjxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDM0LjQwOSA2KSBzY2FsZSg4LjUyMjzczKSI+PGNsaXBQYXRoIGlkPSJwcmVmaXhfX2EiPjxwYXRoIGQ9Ik0wIDBoNTJ2NTguNjY3SDB6Ii8+PC9jbGlwUGF0aD48ZyBjbGlwLXBhdGg9InVybCgjcHJlZml4X19hKSI+PHBhdGggZD0iTTAgNTIuMTY0VjYuNTA0QzAgMS41MDUgNS4zNTYtMS42MiA5LjY0My44OGwzOS4xNDQgMjIuODNjNC4yODUgMi41IDQuMjg1IDguNzQ5IDAgMTEuMjQ3TDkuNjQzIDU3Ljc4NUM1LjM1NyA2MC4yODggMCA1Ny4xNjMgMCA1Mi4xNjR6IiBmaWxsPSIjMDA4MGY0IiBmaWxsLXJ1bGU9Im5vbnplcm8iLz48cGF0aCBkPSJNMzguNTc5IDE3Ljc1NWwtMTkuODMwIDExLjY3NC0zLjc2Mi02LjgxN2EzLjY5NiAzLjY5NiAwIDAwLTIuMjM5LTEuNzg1IDMuNjk4IDMuNjk4IDAgMDAtMS4wMTMtLjE0M2MtLjYzMiAwLTEuMjYuMTY3LTEuODE4LjQ4M0wwIDI2Ljc9N3Y3Ljc3NmwuMTYxLS4wOTIgMTAuNDI4LTUuOTIgMy43ODcgNi44NTlhMy43NDYgMy43NDYgMCAwMDIuMjY1IDEuNzkzIDMuNzA1IDMuNzA1IDAgMDAyLjg1NS0uMzc3bDI1Ljc3OS0xNS4xNzktNi42OTYtMy45MDJ6IiBmaWxsPSIjYmVmN2ZmIiBmaWxsLXJ1bGU9Im5vbnplcm8iLz48L2c+PC9nPjwvc3ZnPg==" height="40" alt="google play console logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" height="40" alt="photoshop logo" />
 </div>
 
