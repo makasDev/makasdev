@@ -45,9 +45,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" />
   <img width="12" />
-<img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512' fill-rule='evenodd' clip-rule='evenodd' stroke-linejoin='round' stroke-miterlimit='2'><g transform='translate(34.409 6) scale(8.52273)'><clipPath id='prefix__a'><path d='M0 0h52v58.667H0z'/></clipPath><g clip-path='url(%23prefix__a)'><path d='M0 52.164V6.504C0 1.505 5.356-1.62 9.643.88l39.144 22.83c4.285 2.5 4.285 8.749 0 11.247L9.643 57.785C5.357 60.288 0 57.163 0 52.164z' fill='%230080f4' fill-rule='nonzero'/><path d='M38.579 17.755l-19.83 11.674-3.762-6.817a3.696 3.696 0 00-2.239-1.785 3.698 3.698 0 00-1.013-.143c-.632 0-1.26.167-1.818.483L0 26.797v7.776l.161-.092 10.428-5.92 3.787 6.859a3.746 3.746 0 002.265 1.793 3.705 3.705 0 002.855-.377l25.779-15.179-6.696-3.902z' fill='%23bef7ff' fill-rule='nonzero'/></g></g></svg>" height="40" alt="google play console logo" />
-<img width="12" />
-
+  <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTEyIDUxMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLW1pdGVybGltaXQ9IjIiPjxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDM0LjQwOSA2KSBzY2FsZSg4LjUyMjzczKSI+PGNsaXBQYXRoIGlkPSJwcmVmaXhfX2EiPjxwYXRoIGQ9Ik0wIDBoNTJ2NTguNjY3SDB6Ii8+PC9jbGlwUGF0aD48ZyBjbGlwLXBhdGg9InVybCgjcHJlZml4X19hKSI+PHBhdGggZD0iTTAgNTIuMTY0VjYuNTA0QzAgMS41MDUgNS4zNTYtMS42MiA5LjY0My44OGwzOS4xNDQgMjIuODNjNC4yODUgMi41IDQuMjg1IDguNzQ5IDAgMTEuMjQ3TDkuNjQzIDU3Ljc4NUM1LjM1NyA2MC4yODggMCA1Ny4xNjMgMCA1Mi4xNjR6IiBmaWxsPSIjMDA4MGY0IiBmaWxsLXJ1bGU9Im5vbnplcm8iLz48cGF0aCBkPSJNMzguNTc5IDE3Ljc1NWwtMTkuODMwIDExLjY3NC0zLjc2Mi02LjgxN2EzLjY5NiAzLjY5NiAwIDAwLTIuMjM5LTEuNzg1IDMuNjk4IDMuNjk4IDAgMDAtMS4wMTMtLjE0M2MtLjYzMiAwLTEuMjYuMTY3LTEuODE4LjQ4M0wwIDI2Ljc9N3Y3Ljc3NmwuMTYxLS4wOTIgMTAuNDI4LTUuOTIgMy43ODcgNi44NTlhMy43NDYgMy43NDYgMCAwMDIuMjY1IDEuNzkzIDMuNzA1IDMuNzA1IDAgMDAyLjg1NS0uMzc3bDI1Ljc3OS0xNS4xNzktNi42OTYtMy45MDJ6IiBmaWxsPSIjYmVmN2ZmIiBmaWxsLXJ1bGU9Im5vbnplcm8iLz48L2c+PC9nPjwvc3ZnPg==" height="40" alt="google play console logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" height="40" alt="photoshop logo" />
 </div>
 
