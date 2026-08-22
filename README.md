@@ -1,3 +1,21 @@
+<div align="center">
+
+  <h1>Hi, I'm Faris Makaš 👋</h1>
+
+  <p>
+    🎮 Game developer crafting indie experiences in Unity (C#) <br />
+    🐍 Writing neat little Python scripts to automate tedious stuff <br />
+    🐧 Tinkering with self-hosted services and Linux home lab setups <br />
+  </p>
+
+  <p>
+    <a href="https://makasdev.com" target="_blank">
+      <img src="https://img.shields.io/badge/makasdev.com-0078D4?style=for-the-badge" alt="makasdev.com" />
+    </a>
+  </p><h2></h2>
+
+</div>
+
 <div data-importer="techs" align="center">
   <img src="https://cdn.simpleicons.org/unity/white" height="40" alt="unity logo" />
   <img width="12" />
@@ -33,8 +51,9 @@
 <br />
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/makasdev/makasdev/activity-graph-output/activity-graph.svg?radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph" />
+  <img src="https://raw.githubusercontent.com/makasdev/makasdev/activity-graph-output/activity-graph.svg?radius=16&theme=react&area=true&order=5" alt="activity graph" />
   <br /><br />
-  <img src="https://streak-stats.demolab.com?user=makasdev&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="165" alt="streak graph" />
-  <img src="https://raw.githubusercontent.com/makasdev/makasdev/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=400&langs_count=5&theme=react&hide_border=false&order=2" height="165" alt="languages graph" />
+  <img src="https://streak-stats.demolab.com?user=makasdev&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" alt="streak graph" />
+  <br /><br />
+  <img src="https://raw.githubusercontent.com/makasdev/makasdev/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&langs_count=5&theme=react&hide_border=false&order=2" alt="languages graph" />
 </div>
