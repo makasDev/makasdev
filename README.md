@@ -30,12 +30,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" height="40" alt="photoshop logo" />
 </div>
 
-###
+<br />
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/makasdev/makasdev/activity-graph-output/activity-graph.svg?radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-  <img src="https://streak-stats.demolab.com?user=makasdev&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/makasdev/makasdev/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/makasdev/makasdev/activity-graph-output/activity-graph.svg?radius=16&theme=react&area=true&order=5" width="100%" alt="activity-graph graph" />
+  <br /><br />
+  <img src="https://streak-stats.demolab.com?user=makasdev&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="165" width="415" alt="streak graph" />
+  <img src="https://raw.githubusercontent.com/makasdev/makasdev/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&langs_count=5&theme=react&hide_border=false&order=2" height="165" width="415" alt="languages graph" />
 </div>
-
-###
